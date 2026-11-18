@@ -1,10 +1,8 @@
-# 🎓 Gerenciador Acadêmico em C (CLI)
+# Gerenciador Acadêmico em C (CLI)
 
 Sistema de gerenciamento acadêmico via linha de comando (CLI) desenvolvido em **Linguagem C**, focado em manipulação eficiente de memória, estruturas de dados homogêneas (vetores e matrizes paralelas) e algoritmos clássicos de busca e ordenação.
 
----
-
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * **Cadastro com Validação:** Registro de até 50 alunos (`MAX_ALUNOS`) com matrícula única (bloqueio de duplicidades), nome completo e duas notas semestrais, calculando a média automaticamente.
 * **Listagem e Situação Acadêmica:** Exibição completa da turma e classificação automática de status (`APROVADO` para média $\ge 7.0$ ou `REPROVADO`).
@@ -19,7 +17,7 @@ Sistema de gerenciamento acadêmico via linha de comando (CLI) desenvolvido em *
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Aplicados
+## Tecnologias e Conceitos Aplicados
 
 * **Linguagem:** C (Padrão ANSI/C99)
 * **Bibliotecas Padrão:** `stdio.h` (Entrada/Saída) e `string.h` (`strcpy`, `strlen`, `strncmp`)
@@ -28,10 +26,7 @@ Sistema de gerenciamento acadêmico via linha de comando (CLI) desenvolvido em *
   * Passagem de parâmetros por valor e por referência (ponteiros `*total`)
   * Algoritmo de ordenação **Bubble Sort**
   * Busca linear e busca por prefixo
-
----
-
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 gerenciador-academico-c/
@@ -42,7 +37,7 @@ gerenciador-academico-c/
 
 ---
 
-## ⚙️ Como Compilar e Executar
+## Como Compilar e Executar
 
 Certifique-se de ter um compilador C instalado (como **GCC** ou **Clang**).
 
