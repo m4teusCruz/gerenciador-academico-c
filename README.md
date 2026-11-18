@@ -64,6 +64,6 @@ Certifique-se de ter um compilador C instalado (como **GCC** ou **Clang**).
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 * **Mateus Gonçalves da Cruz** — [GitHub](https://github.com/m4teusCruz)
